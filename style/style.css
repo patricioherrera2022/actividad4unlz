@@ -1,6 +1,38 @@
+body{
+    background-color: black;
+}
+
 table,
 th,
 td {
 border: solid 1px black;
 border-collapse: collapse;
+}
+
+.principio{
+    background-color: aquamarine;
+}
+
+.continuoDePrincipio{
+    background-color: antiquewhite;
+}
+
+.desarrollo{
+    background-color:aqua;
+}
+
+.continuoDeDesarrollo{
+    background-color: thistle;
+}
+
+.final{
+    background-color: cadetblue;
+}
+
+footer{
+    background-color: rgb(97, 135, 102);
+}
+
+.btnSubir{
+    color: white;
 }
